@@ -2,6 +2,5 @@
 - 👀 I’m interested in programming, ai.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on making a SaaS
-- 📫 How to reach me - my gmail -> abhijoycoding@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not a nerd :)
